@@ -2,7 +2,7 @@
 
 Research notes on cross-chain infrastructure — DFR developer infrastructure and BEX execution, evidence-first.
 
-DFRChain（跨链基础设施研究笔记）——DFR 开发者基础设施与 BEX 执行层，以证据为先。
+DFRChain (cross-chain infrastructure research notes) — DFR developer infrastructure and the BEX execution layer, evidence-first.
 
 ## Projects
 
