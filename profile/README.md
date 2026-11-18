@@ -7,7 +7,7 @@ DFRChain（跨链基础设施研究笔记）——DFR 开发者基础设施与 B
 ## Projects
 
 - **DFR** — developer infrastructure: multi-chain access layer. → [dfrchain/dfr](https://github.com/dfrchain/dfr)
-- **BEX** — execution layer: cross-chain exchange. → [dfrchain/dfrchain](https://github.com/dfrchain/dfrchain)
+- **BEX** — execution layer: cross-chain exchange. → [dfrchain/bex](https://github.com/dfrchain/bex)
 
 Currently deployed on the Base Sepolia and Arbitrum Sepolia testnets.
 
